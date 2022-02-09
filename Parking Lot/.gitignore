@@ -2,5 +2,8 @@
 .gradle/
 gradle/
 build/
+Topics/
+course-remote-info.yaml
+course-info.yaml
 gradlew
 gradlew.bat
